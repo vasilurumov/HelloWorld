@@ -1,12 +1,12 @@
-<<<<<<< HEAD
+
 Change here
 Additional line here
 Upload with Tortoise
 Dots here....
-=======
+
 
 Upload With Bash!
 
 Upload with Tortoise
 
->>>>>>> 221afa14a9f337a76926ae004abdedac1bf207e9
+
